@@ -13,8 +13,6 @@
   <a href="https://gitter.im/TheAlgorithms/community">
     <img src="https://img.shields.io/badge/Chat-Gitter-ff69b4.svg?label=Chat&logo=gitter&style=flat-square" height="20" alt="Gitter chat">
   </a>
-  <!-- Second row: -->
-  <br>
   <a href="https://github.com/TheAlgorithms/Python/actions">
     <img src="https://img.shields.io/github/actions/workflow/status/TheAlgorithms/Python/build.yml?branch=master&label=CI&logo=github&style=flat-square" height="20" alt="GitHub Workflow Status">
   </a>
